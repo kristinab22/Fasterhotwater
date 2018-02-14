@@ -1,0 +1,14 @@
+body {
+    background-color: lightgrey !important;
+}
+.container.main {
+    background-color: #fff;
+    margin-bottom: 2em;
+    border-radius: 2%;
+}
+h4 {
+  text-decoration: underline;
+}
+.caption b {
+    font-size: medium;
+}
